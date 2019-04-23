@@ -90,7 +90,7 @@ $(document).ready(function() {
       console.log(tRemainder);
 
       // Minute Until Train
-      var tMinutesTillTrain = tFrequency - tRemainder;
+      var tMinutesTillTrain = frequency - tRemainder;
       console.log("MINUTES TILL TRAIN: " + tMinutesTillTrain);
 
       // Next Train
