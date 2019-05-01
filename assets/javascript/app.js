@@ -7,12 +7,12 @@
 $(document).ready(function() {
   // Initialize Firebase
   var config = {
-    apiKey: "AIzaSyDpH_0sH7F7-tNOuPuAKGD55ZZ0DiPLfr8",
-    authDomain: "train-schedule-project-c0a59.firebaseapp.com",
-    databaseURL: "https://train-schedule-project-c0a59.firebaseio.com",
-    projectId: "train-schedule-project-c0a59",
-    storageBucket: "train-schedule-project-c0a59.appspot.com",
-    messagingSenderId: "739190935932"
+    apiKey: "AIzaSyCDRmIyAM7c0ysiJbQ_0XaIhDScdYFlbUg",
+    authDomain: "train2-2d99a.firebaseapp.com",
+    databaseURL: "https://train2-2d99a.firebaseio.com",
+    projectId: "train2-2d99a",
+    storageBucket: "train2-2d99a.appspot.com",
+    messagingSenderId: "151707422380"
   };
   firebase.initializeApp(config);
 
