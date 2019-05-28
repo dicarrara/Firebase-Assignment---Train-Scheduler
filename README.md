@@ -24,4 +24,4 @@
 * Bootstrap
 * CSS
 
-Deployed GitHub Link: https://dicarrara.github.io/Firebase-Assignment---Train-Scheduler/
+Deployed GitHub Link: https://dicarrara.github.io/Firebase-Train-Scheduler/
